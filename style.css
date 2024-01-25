@@ -1,0 +1,43 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0px;
+}
+.first{
+    float: left;
+    margin-left: 5%;
+    width: 40%;
+    margin-top: 5%;
+    float: left;
+}
+.intro{
+    color: darkslateblue;
+    font-size:50px;
+}
+.name{
+    color: chocolate;
+    font-size: 50px;
+}
+.about_me{
+    color:dimgray;
+    font-size:20px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,red);
+    padding: 15px 40px;
+    border-radius: 8px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.izaz{
+    width: 100%;
+}
+.middle first about_me{
+    font-size: 190px;
+}
+#about_{
+    font-size: 50px;
+    font-weight: 900;
+    color: midnightblue;
+}
+
